@@ -1,0 +1,5 @@
+*.swp
+*.D_Store
+/__
+*.sublime-project
+*.sublime-workspace
